@@ -1,6 +1,6 @@
-# fly.toml file generated for polas on 2022-05-15T17:45:12-03:00
+# fly.toml file generated for jokes on 2022-05-15T18:39:49-03:00
 
-app = "polas"
+app = "jokes-app"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
